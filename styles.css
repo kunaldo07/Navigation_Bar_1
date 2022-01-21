@@ -1,0 +1,23 @@
+.navbar{
+    background-color: black;
+    border-radius: 10px;
+}
+
+.navbar li{
+    float: left;
+    list-style: none;
+    color: white;
+    padding: 3px 3px;
+    margin: 13px 20px;
+    cursor: pointer;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+.search{
+    float: right;
+    color: white;
+    padding: 13px 80px;
+}
